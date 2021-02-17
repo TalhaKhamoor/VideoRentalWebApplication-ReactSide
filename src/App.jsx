@@ -9,9 +9,6 @@ import MovieForm from "./components/movieForm";
 import LoginForm from "./components/loginForm";
 import "./App.css";
 
-Heyoooo;
-Wassap;
-
 class App extends Component {
   render() {
     return (
